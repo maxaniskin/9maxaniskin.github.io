@@ -1,0 +1,387 @@
+# Query: logo
+# ContextLines: 1
+
+Результаты: 115 - Файлы 22
+
+Hecate template\about.html:
+   60  		
+   61: 	<!-- Nav and Logo
+   62  	================================================== -->
+
+   66  				<div class="twelve columns">	
+   67: 					<div class="logo-wrap">
+   68: 						<img src="images/logo.png" alt="">
+   69  					</div>
+
+  489  				<div class="twelve columns">			
+  490: 					<div id="owl-logo" class="owl-carousel owl-theme">
+  491  										 
+  492  						<div class="item">
+  493: 							<img src="images/logos/1.png" alt="">		
+  494  						</div>										
+  495  						<div class="item">
+  496: 							<img src="images/logos/2.png" alt="">			
+  497  						</div>										
+  498  						<div class="item"> 
+  499: 							<img src="images/logos/3.png" alt="">				
+  500  						</div>		 
+  501  						<div class="item">
+  502: 							<img src="images/logos/4.png" alt="">			
+  503  						</div>										
+  504  						<div class="item">
+  505: 							<img src="images/logos/5.png" alt="">			
+  506  						</div>										
+  507  						<div class="item"> 
+  508: 							<img src="images/logos/6.png" alt="">				
+  509  						</div>		 
+  510  						<div class="item">
+  511: 							<img src="images/logos/1.png" alt="">			
+  512  						</div>										
+  513  						<div class="item">	
+  514: 							<img src="images/logos/2.png" alt="">		
+  515  						</div>										
+  516  						<div class="item"> 
+  517: 							<img src="images/logos/3.png" alt="">				
+  518  						</div> 
+  519  						<div class="item">
+  520: 							<img src="images/logos/4.png" alt="">			
+  521  						</div>										
+  522  						<div class="item">
+  523: 							<img src="images/logos/5.png" alt="">			
+  524  						</div>	
+
+  603  					<div class="twelve columns">
+  604: 						<img src="images/logo.png" alt="">	
+  605  					</div>	
+
+  639              Royal_Preloader.config({
+  640:                 mode:           'text', // 'number', "text" or "logo"
+  641                  text:           'орни"ТУЛА"',
+
+Hecate template\afisha.html:
+   60  		
+   61: 	<!-- Nav and Logo
+   62  	================================================== -->
+
+   66  				<div class="twelve columns">	
+   67: 					<div class="logo-wrap">
+   68: 						<img src="images/logo.png" alt="">
+   69  					</div>
+
+  200  					<div class="twelve columns">
+  201: 						<img src="images/logo.png" alt="">	
+  202  					</div>	
+
+  235              Royal_Preloader.config({
+  236:                 mode:           'text', // 'number', "text" or "logo"
+  237                  text:           'орни"ТУЛА"',
+
+Hecate template\blog.html:
+   53  		
+   54: 	<!-- Nav and Logo
+   55  	================================================== -->
+
+   60  				<div class="twelve columns">	
+   61: 					<div class="logo-wrap">
+   62: 						<img src="images/logo.png" alt="">
+   63  					</div>
+
+  291              Royal_Preloader.config({
+  292:                 mode:           'text', // 'number', "text" or "logo"
+  293                  text:           'орни "ТУЛА"',
+
+Hecate template\boss.html:
+   60  		
+   61: 	<!-- Nav and Logo
+   62  	================================================== -->
+
+   66  				<div class="twelve columns">	
+   67: 					<div class="logo-wrap">
+   68: 						<img src="images/logo.png" alt="">
+   69  					</div>
+
+  247  					<div class="twelve columns">
+  248: 						<img src="images/logo.png" alt="">	
+  249  					</div>	
+
+  283              Royal_Preloader.config({
+  284:                 mode:           'text', // 'number', "text" or "logo"
+  285                  text:           'орни"ТУЛА"',
+
+Hecate template\contact.html:
+   48  		
+   49: 	<!-- Nav and Logo
+   50  	================================================== -->
+
+   55  				<div class="twelve columns">	
+   56: 					<div class="logo-wrap">
+   57: 						<img src="images/logo.png" alt="">
+   58  					</div>
+
+  244  					<div class="twelve columns">
+  245: 						<img src="images/logo.png" alt="">	
+  246  					</div>	
+
+  280              Royal_Preloader.config({
+  281:                 mode:           'text', // 'number', "text" or "logo"
+  282                  text:           'HECATE',
+
+Hecate template\index.html:
+   62  		
+   63: 	<!-- Nav and Logo
+   64  	================================================== -->
+
+   68  				<div class="twelve columns">	
+   69: 					<div class="logo-wrap">
+   70: 						<img src="images/logo.png" alt="">
+   71  					</div>
+
+  269              Royal_Preloader.config({
+  270:                 mode:           'text', // 'number', "text" or "logo"
+  271                  text:           'орни"ТУЛА"',
+
+Hecate template\menu.html:
+   41  		
+   42: 	<!-- Nav and Logo
+   43  	================================================== -->
+
+   47  				<div class="twelve columns">	
+   48: 					<div class="logo-wrap">
+   49: 						<img src="images/logo.png" alt="">
+   50  					</div>
+
+  141              Royal_Preloader.config({
+  142:                 mode:           'text', // 'number', "text" or "logo"
+  143                  text:           'орни "ТУЛА"',
+
+Hecate template\metel.html:
+   58  		
+   59: 	<!-- Nav and Logo
+   60  	================================================== -->
+
+   64  				<div class="twelve columns">	
+   65: 					<div class="logo-wrap">
+   66: 						<img src="images/logo.png" alt="">
+   67  					</div>
+
+  261              Royal_Preloader.config({
+  262:                 mode:           'text', // 'number', "text" or "logo"
+  263                  text:           'HECATE',
+
+Hecate template\metelitsa.html:
+   58  		
+   59: 	<!-- Nav and Logo
+   60  	================================================== -->
+
+   65  				<div class="twelve columns">	
+   66: 					<div class="logo-wrap">
+   67: 						<img src="images/logo.png" alt="">
+   68  					</div>
+
+  224  					<div class="twelve columns">
+  225: 						<img src="images/logo.png" alt="">	
+  226  					</div>	
+
+  271              Royal_Preloader.config({
+  272:                 mode:           'text', // 'number', "text" or "logo"
+  273                  text:           'орни"ТУЛА"',
+
+Hecate template\notki.html:
+   58  		
+   59: 	<!-- Nav and Logo
+   60  	================================================== -->
+
+   64  				<div class="twelve columns">	
+   65: 					<div class="logo-wrap">
+   66: 						<img src="images/logo.png" alt="">
+   67  					</div>
+
+  190  					<div class="twelve columns">
+  191: 						<img src="images/logo.png" alt="">	
+  192  					</div>	
+
+  236              Royal_Preloader.config({
+  237:                 mode:           'text', // 'number', "text" or "logo"
+  238                  text:           'орни"ТУЛА"',
+
+Hecate template\orkestr.html:
+   60  		
+   61: 	<!-- Nav and Logo
+   62  	================================================== -->
+
+   66  				<div class="twelve columns">	
+   67: 					<div class="logo-wrap">
+   68: 						<img src="images/logo.png" alt="">
+   69  					</div>
+
+  218  					<div class="twelve columns">
+  219: 						<img src="images/logo.png" alt="">	
+  220  					</div>	
+
+  255              Royal_Preloader.config({
+  256:                 mode:           'text', // 'number', "text" or "logo"
+  257                  text:           'орни"ТУЛА"',
+
+Hecate template\post.html:
+   51  		
+   52: 	<!-- Nav and Logo
+   53  	================================================== -->
+
+   58  				<div class="twelve columns">	
+   59: 					<div class="logo-wrap">
+   60: 						<img src="images/logo.png" alt="">
+   61  					</div>
+
+  264  					<div class="twelve columns">
+  265: 						<img src="images/logo.png" alt="">	
+  266  					</div>	
+
+  300              Royal_Preloader.config({
+  301:                 mode:           'text', // 'number', "text" or "logo"
+  302                  text:           'HECATE',
+
+Hecate template\solists.html:
+   60  		
+   61: 	<!-- Nav and Logo
+   62  	================================================== -->
+
+   66  				<div class="twelve columns">	
+   67: 					<div class="logo-wrap">
+   68: 						<img src="images/logo.png" alt="">
+   69  					</div>
+
+  244  					<div class="twelve columns">
+  245: 						<img src="images/logo.png" alt="">	
+  246  					</div>	
+
+  280              Royal_Preloader.config({
+  281:                 mode:           'text', // 'number', "text" or "logo"
+  282                  text:           'орни"ТУЛА"',
+
+Hecate template\team.html:
+   53  		
+   54: 	<!-- Nav and Logo
+   55  	================================================== -->
+
+   60  				<div class="twelve columns">	
+   61: 					<div class="logo-wrap">
+   62: 						<img src="images/logo.png" alt="">
+   63  					</div>
+
+  291              Royal_Preloader.config({
+  292:                 mode:           'text', // 'number', "text" or "logo"
+  293                  text:           'орни "ТУЛА"',
+
+Hecate template\work.html:
+   58  		
+   59: 	<!-- Nav and Logo
+   60  	================================================== -->
+
+   65  				<div class="twelve columns">	
+   66: 					<div class="logo-wrap">
+   67: 						<img src="images/logo.png" alt="">
+   68  					</div>
+
+  613  					<div class="twelve columns">
+  614: 						<img src="images/logo.png" alt="">	
+  615  					</div>	
+
+  650              Royal_Preloader.config({
+  651:                 mode:           'text', // 'number', "text" or "logo"
+  652                  text:           'HECATE',
+
+Hecate template\css\2style.css:
+  25  }
+  26: .fh5co-nav .fh5co-top-logo,
+  27  .fh5co-nav .fh5co-top-menu,
+
+  30  }
+  31: .fh5co-nav .fh5co-top-logo {
+  32    width: 20%;
+
+  39  }
+  40: .fh5co-nav #fh5co-logo {
+  41    font-size: 20px;
+
+Hecate template\css\layout.css:
+   118  }
+   119: #royal_preloader.logo .loader {
+   120      width: 100px;
+
+   131  }
+   132: #royal_preloader.logo .loader div {
+   133      position: absolute;
+
+   145  }
+   146: #royal_preloader.logo .percentage {
+   147      position: absolute;
+
+   199   
+   200: .logo-wrap {
+   201  	display:block;
+
+   203  }
+   204: .logo-wrap img{
+   205  	width:80px;margin-left: 2rem;
+
+  1625  
+  1626: #owl-logo{
+  1627  	position:relative;
+
+  1631  }
+  1632: #owl-logo .item{
+  1633  	position:relative;
+
+  1637  }
+  1638: #owl-logo .item img{
+  1639  	width:80px;
+
+Hecate template\js\custom-about.js:
+  12  	
+  13: 	//Logo Carousel
+  14  	 
+  15: 	  var owl = $("#owl-logo");
+  16  	 
+
+Hecate template\js\jquery.mb.YTPlayer.js:
+   99  			ratio                  : "16/9",
+  100: 			showYTLogo             : false,
+  101  			videoURL               : null,
+
+  126  			showSite: "R",
+  127: 			ytLogo: "Y"
+  128  		},
+
+  911  				vURL = jQuery.mbYTPlayer.locationProtocol+"//www.youtube.com/watch?v="+data.videoURL;
+  912: 			var movieUrl = jQuery("<span/>").html(jQuery.mbYTPlayer.controls.ytLogo).addClass("mb_YTVPUrl ytpicon").attr("title", "view on YouTube").on("click", function () {window.open(vURL, "viewOnYT")});
+  913  			var onlyVideo = jQuery("<span/>").html(jQuery.mbYTPlayer.controls.onlyYT).addClass("mb_OnlyYT ytpicon").on("click",function () {jQuery(YTPlayer).fullscreen(data.realfullscreen);});
+
+Hecate template\js\royal_preloader.min.js:
+  11  window.requestAnimFrame=function(){return window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||function(a){window.setTimeout(a,1E3/60)}}();
+  12: var Royal_Preloader={_overlay:null,_overlay_bg:null,_loader:null,_name:null,_percentage:null,_on_complete:null,_text_loader:null,_text_loader_overlay:null,_logo_loader:null,_logo_loader_meter:null,_total:0,_loaded:0,_image_queue:[],_percentage_loaded:0,_mode:function(){return"undefined"!==typeof Royal_Preloader&&"undefined"!==typeof Royal_Preloader._mode?Royal_Preloader._mode:"number"}(),_text:function(){return"undefined"!==typeof Royal_Preloader&&"undefined"!==typeof Royal_Preloader._text?Royal_Preloader._text:
+  13  "loading..."}(),_opacity:function(){return"undefined"!==typeof Royal_Preloader&&"undefined"!==typeof Royal_Preloader._opacity?Royal_Preloader._opacity:1}(),_images:function(){return"undefined"!==typeof Royal_Preloader&&"undefined"!==typeof Royal_Preloader._images?Royal_Preloader._images:{}}(),_show_info:function(){return"undefined"!==typeof Royal_Preloader&&"undefined"!==typeof Royal_Preloader._show_info?Royal_Preloader._show_info:!0}(),_show_percentage:function(){return"undefined"!==typeof Royal_Preloader&&
+  14: "undefined"!==typeof Royal_Preloader._show_percentage?Royal_Preloader._show_percentage:!0}(),_background:function(){return"undefined"!==typeof Royal_Preloader&&"undefined"!==typeof Royal_Preloader._background?Royal_Preloader._background:["#000000"]}(),_logo:function(){return"undefined"!==typeof Royal_Preloader&&"undefined"!==typeof Royal_Preloader._logo?Royal_Preloader._logo:"none"}(),_timeout:10,_use_css_animation:!0,_css3SupportDetect:function(){var a=document.body.style;if("string"==typeof a.transition)return Royal_Preloader._use_css_animation=
+  15  !0;for(var b=["Webkit","Moz","Khtml","O","ms"],c=0;c<b.length;c++)if("string"==typeof a[b[c]+"Transition"])return Royal_Preloader._use_css_animation=!0;return Royal_Preloader._use_css_animation=!1},_init:function(){Royal_Preloader._css3SupportDetect();Royal_Preloader._total=0;$.each(Royal_Preloader._images,function(){Royal_Preloader._total++});Royal_Preloader._build();Royal_Preloader._load()},_build:function(){this._overlay=$("<div>").attr("id","royal_preloader").addClass(this._mode);this._overlay_bg=
+  16: $("<div>").addClass("background").appendTo(this._overlay).css("background-color",this._background[0]);"number"===this._mode?this._percentage=$("<div>").addClass("percentage").appendTo(this._overlay):"text"===this._mode?(this._text_loader=$("<div>").addClass("loader").text(this._text).appendTo(this._overlay),this._text_loader_overlay=$("<div>").css("background-color",this._background[0]).appendTo(this._text_loader)):(this._logo_loader=$("<div>").css("background-image",'url("'+this._logo+'")').addClass("loader").appendTo(this._overlay),
+  17: this._logo_loader_meter=$("<div>").css("background-color",this._background[0]).appendTo(this._logo_loader),this._percentage=$("<div>").css("background-color",this._background[0]).addClass("percentage").appendTo(this._overlay),this._show_percentage||this._percentage.hide());1!==this._opacity&&(this._overlay_bg.css("opacity",this._opacity),$(document.body).css("visibility","visible"));this._overlay.appendTo($(document.body));"text"===this._mode&&this._text_loader.css("margin-left",this._text_loader.width()/
+  18: 2*-1)},_load:function(){if("number"===this._mode||"logo"===this._mode)this._percentage.data("num",0),this._show_percentage&&this._percentage.text("0%");$.each(this._images,function(a,b){var c=function(){Royal_Preloader._imageOnLoad(a,b)},d=new Image;d.onload=c;d.onerror=c;d.src=b});setTimeout(function(){Royal_Preloader._overlay&&Royal_Preloader._animatePercentage(Royal_Preloader._percentage_loaded,100)},1E3*this._timeout)},_animatePercentage:function(a,b){Royal_Preloader._percentage_loaded=a;a<b&&
+  19: (a++,setTimeout(function(){"number"===Royal_Preloader._mode?Royal_Preloader._show_percentage&&Royal_Preloader._percentage.text(a+"%"):"text"===Royal_Preloader._mode?Royal_Preloader._text_loader_overlay.css("left",a+"%"):(Royal_Preloader._show_percentage&&Royal_Preloader._percentage.text(a+"%"),Royal_Preloader._logo_loader_meter.css("bottom",a+"%"));Royal_Preloader._animatePercentage(a,b)},5),100===a&&Royal_Preloader._loadFinish())},_animateName:function(a,b){if("number"===this._mode){var c=this._name=
+  20  $("<div>").addClass("name").text(a).appendTo(this._overlay);requestAnimFrame(function(){c.css("transform","rotateZ("+parseInt(60*Math.random()-30)+"deg)")});this._use_css_animation?this._overlay_bg.css("background-color",this._background[this._loaded%this._background.length]):(this._name.css({opacity:1,top:"50%"}),this._name.animate({top:"20%",opacity:0},300),this._overlay_bg.animate({backgroundColor:this._background[this._loaded%this._background.length]},300,"linear"))}setTimeout(function(){b()},
+
+  22  this._reQueue())},_loadFinish:function(){this._use_css_animation?(this._overlay.addClass("complete"),$(document.body).removeClass("royal_loader")):setTimeout(function(){Royal_Preloader._overlay.addClass("complete");$(document.body).removeClass("royal_loader")},500);this._on_complete&&this._on_complete();setTimeout(function(){Royal_Preloader._overlay.remove();Royal_Preloader._overlay=null},1E3)},config:function(a){"undefined"!==typeof a.mode&&(this._mode=a.mode);"undefined"!==typeof a.text&&(this._text=
+  23: a.text);"undefined"!==typeof a.timeout&&(this._timeout=parseInt(a.timeout));"undefined"!==typeof a.showPercentage&&(this._show_percentage=a.showPercentage?!0:!1);"undefined"!==typeof a.showInfo&&(this._show_info=a.showInfo?!0:!1);"undefined"!==typeof a.background&&(this._background=a.background);"undefined"!==typeof a.logo&&(this._logo=a.logo);"undefined"!==typeof a.opacity&&(this._opacity=a.opacity);"undefined"!==typeof a.onComplete&&(this._on_complete=a.onComplete);"undefined"!==typeof a.images&&
+  24  (this._images=a.images,Royal_Preloader._total=0,$.each(this._images,function(a,c){Royal_Preloader._total++}))}};$(document).ready(Royal_Preloader._init);
+
+Hecate template\js\scripts.js:
+  217  
+  218: 	$(".to-top, .logo, .start, .scroll-to-work, .order-block a").bind('click', function(event) {
+  219  		event.preventDefault();
+
+help file\index.html:
+   19  	
+   20: 		<p align="center"><img src="assets/images/logo.png" alt="Hecate" /></p>
+   21  		
+
+  791  		
+  792: 		<p align="center"><img src="assets/images/logo.png" alt="Hecate" /></p>
+  793  		
